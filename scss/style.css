@@ -1232,7 +1232,7 @@ main {
      object-fit: cover;
 }
 @media (max-width: 1024px) and (min-height: 280px) {
-  .cash-fees__column {
+  .cash-fees__column img {
     height: 110px;
     max-width: 80px;
     width: 100%;
