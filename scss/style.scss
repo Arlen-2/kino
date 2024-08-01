@@ -1,0 +1,25 @@
+
+@import './venders/reset';
+
+@import '../fonts/style.css';
+
+@import './helpers/variadles';
+@import './helpers/mixins';
+
+@import './base';
+
+@import './components/buttons';
+@import './components/header';
+@import './components/section';
+@import './components/hero';
+@import './components/trailers';
+@import './components/popular';
+@import './components/persons';
+@import './components/news';
+@import './components/expected';
+@import './components/cash-fees';
+@import './components/subscribe';
+@import './components/footer';
+
+@import './venders/checkbox';
+
